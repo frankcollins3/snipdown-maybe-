@@ -1,5 +1,5 @@
 # snipdown-maybe-
-markdown file with code snippets 
+`{text} as params -> JS ? <code> : <text>` 
 
 # assumptions & supposings before asking chatGPT:
 markdown and snippet file in one:
